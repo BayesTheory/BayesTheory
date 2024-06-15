@@ -1,4 +1,4 @@
-# Rian Costa
+# Rian Ferreira
 **`Programmer`** **`statistics`** **`Computer Science Technician`**
 
 Average minimal-dependency code enjoyer
