@@ -1,5 +1,5 @@
-# Rubens Kaiserman
-**`Programmer`** **`Math Sciences Undergrad`** **`Computer Science Technician`**
+# Rian Costa
+**`Programmer`** **`statistics`** **`Computer Science Technician`**
 
 Average minimal-dependency code enjoyer
 
@@ -14,8 +14,7 @@ Average minimal-dependency code enjoyer
 
 #### Interested in
   - AI/ML
-  - MLOps
-  - Applied Mathematics
+  - Data Engineering
   - Software Engineering
 
 ### Tools I've build stuff with
