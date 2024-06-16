@@ -16,7 +16,7 @@ Average minimal-dependency code enjoyer
 #### Interested in
   - AI/ML
   - Data Engineering
-  - Software Engineering
+  - Robotic Process Automation
 
 ### Tools I've build stuff with
  <div>
