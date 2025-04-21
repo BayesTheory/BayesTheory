@@ -1,41 +1,53 @@
-# Rian Ferreira
-**`Programmer`** **`statistics`** **`Computer Science Technician`**
+# Rian Ferreira 🧠📊
+**`AI/ML Developer`** • **`Statistics & Civil Engineering Student`** • **`Computer Science Technician`**
 
-Average minimal-dependency code enjoyer
+🧩 Low-dependency code lover | 🧪 Data & Automation enthusiast  
+🎯 Precision, performance, and a dash of aesthetic
 
+---
 
-### Tools I'm using right now
+### 🚀 Tech Stack I'm Riding With
+
 <div style="display: inline_block"><br>
-  <img align="center" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img align="center" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
+  <img height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
+  <img height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" />
+  <img height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
 </div>
 
+---
 
-#### Interested in
-  - AI/ML
-  - Data Engineering
-  - Robotic Process Automation
+### 🧠 Areas I'm Deep Diving Into
 
-### Tools I've build stuff with
- <div>
-  <br>
-  <br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-  <img align="center" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <br>
-  <br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <br>
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=BayesTheory&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayesTheory&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=BayesTheory&theme=dracula" />
+- Machine Learning & Statistical Modeling  
+- Data Engineering & Pipeline Automation  
+- RPA (Robotic Process Automation)  
+- Bayesian Inference & Applied AI  
+
+---
+
+### 🛠️ Stuff I’ve Built Things With
+
+<div style="display: inline_block"><br>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Apache Spark" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" />
 </div>
 
+---
+
+### 📈 Stats & GitHub Visuals
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BayesTheory&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&text_color=FF9DD9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayesTheory&layout=compact&theme=radical&hide_border=true&text_color=FF9DD9&langs_count=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BayesTheory&theme=dracula" />
+</div>
+
+---
+
+> *"Build fast, learn faster, automate everything."*
