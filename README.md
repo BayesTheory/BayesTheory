@@ -19,3 +19,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BayesTheory&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
