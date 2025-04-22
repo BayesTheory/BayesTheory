@@ -1,8 +1,7 @@
 # Rian Ferreira 🧠📊
 **`AI/ML Developer`** • **`Statistics & Civil Engineering Student`** • **`Computer Science Technician`**
 
-🧩 Low-dependency code lover | 🧪 Data & Automation enthusiast  
-🎯 Precision, performance, and a dash of aesthetic
+🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  
 
 ---
 
