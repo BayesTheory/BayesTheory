@@ -9,9 +9,9 @@
 ### 🔧 Developer Profile Snapshot
 
 - 🔍 **Focus:** AI/ML • Data Automation • Bayesian Modeling
-- 📚 **Current Stack:** Python, R, C, TensorFlow, Spark, Docker, SQL
+- 📚 **Current Stack:** Python, R, C, TensorFlow, Docker, SQL
 - 🧠 **Learning:** MLOps • Probabilistic Programming • Cloud Pipelines
-- 🌐 **Contributions:** GitHub, LAMCE/UFRJ, Open Data Projects
+- 🌐 **Contributions:** GitHub, LAMCE/UFRJ, Open Data Projects, UFRJ Community
 
 ---
 
