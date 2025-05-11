@@ -14,7 +14,35 @@
 - 🌐 **Contributions:** GitHub, LAMCE/UFRJ, Open Data Projects, UFRJ Community
 
 ---
+name: GitHub-Profile-3D-Contrib
 
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
+  
 ### 🌌 Skill Set Highlights
 
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -25,4 +53,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BayesTheory&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
