@@ -22,8 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![R](https://img.shields.io/badge/R-333?style=for-the-badge&logo=r&logoColor=75AADB)
-![Apache Spark](https://img.shields.io/badge/Spark-333?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ---
