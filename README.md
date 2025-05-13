@@ -16,10 +16,9 @@
 ---
 
 ### 🌌 Skill Set Highlights
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![R](https://img.shields.io/badge/R-333?style=for-the-badge&logo=r&logoColor=75AADB)
 ![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ---
