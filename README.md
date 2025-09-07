@@ -3,7 +3,7 @@
 
 🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  
 
-
+https://bayestheory.github.io/
 ---
 
 ### 🔧 Developer Profile Snapshot
