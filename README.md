@@ -1,7 +1,7 @@
 # Rian Ferreira 🧠📊
 **AI/ML Developer** • **Statistician & MSc IA Student** • **Computer Science Technician**
 
-🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | Vision and Language
+🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | 🤖 Vision and Language
 
 https://bayestheory.github.io/
 ---
