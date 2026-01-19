@@ -21,12 +21,8 @@
   - Deploy (GCP): [Link](https://sentiment-api-464122890643.us-central1.run.app/main)
    
 - **[Projeto 2]** — 🚧 Em construção • **GCP**
-  - Código: https://github.com/BayesTheory/SEU-REPO-2
-  - Deploy (GCP): https://SUA_URL_GCP_PROJETO_2
 
 - **[Projeto 3]** — 🚧 Em construção • **GCP**
-  - Código: https://github.com/BayesTheory/SEU-REPO-3
-  - Deploy (GCP): https://SUA_URL_GCP_PROJETO_3
 
 ---
 
