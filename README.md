@@ -1,5 +1,5 @@
 # Rian Ferreira 🧠📊
-**AI/ML Developer** • **Statistician & MSc IA Student** • **Computer Science Technician** • **ML Engineer**
+**AI/ML Engineer** • **Statistician & MSc IA Student** 
 
 🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | 🤖 Vision and Language
 
