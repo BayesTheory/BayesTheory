@@ -19,9 +19,7 @@
 - **Sentiment Analysis API** — FastAPI + RoBERTa (Twitter) • Docker • **GCP (Cloud Run)** • 🚀 Em produção
   - Código: https://github.com/BayesTheory/sentiment-analysis-api
   - Deploy (GCP): [Link](https://sentiment-api-464122890643.us-central1.run.app/main)
-  - Repo:
-    [![Repo](https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github)](https://github.com/BayesTheory/sentiment-analysis-api)
-
+  - 
 - **[Projeto 2]** — 🚧 Em construção • **GCP**
   - Código: https://github.com/BayesTheory/SEU-REPO-2
   - Deploy (GCP): https://SUA_URL_GCP_PROJETO_2
