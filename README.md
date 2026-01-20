@@ -9,7 +9,7 @@
 
 - 🔍 **Focus:** AI/ML • Data Automation • Bayesian Modeling • Probabilistic Programming
 - 📚 **Current Stack:** Python, R, C, TensorFlow, Docker, SQL, MLOps
-- 🧠 **Learning:** AWS / GCP • FullCycle IA • Cloud Pipelines • Data Engineer 
+- 🧠 **Learning:** AWS / GCP • FullCycle IA • Cloud Pipelines • Data Engineering 
 - 🌐 **Contributions:** GitHub, LAMCE/UFRJ, Open Data Projects, UFRJ Community
 
 ---
