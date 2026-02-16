@@ -14,9 +14,9 @@
 
 ---
 
-### 🚀 Projetos Ativo
+### 🚀 Projetos 
 
-- **Sentiment Analysis API** — FastAPI + RoBERTa (Twitter) • Docker • **GCP (Cloud Run)** • 🚀 Em produção.
+- **Sentiment Analysis API** — FastAPI + RoBERTa (Twitter) • Docker • **GCP (Cloud Run)** • 🚀 Desativado 
   - Código: https://github.com/BayesTheory/sentiment-analysis-api
   - Deploy (GCP): [Link](https://sentiment-api-464122890643.us-central1.run.app/main)
    
