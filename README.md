@@ -20,9 +20,6 @@
   - Código: https://github.com/BayesTheory/sentiment-analysis-api
   - Deploy (GCP): [Link](https://sentiment-api-464122890643.us-central1.run.app/main)
    
-- **[Projeto 2]** — 🚧 Em construção • **GCP**
-
-- **[Projeto 3]** — 🚧 Em construção • **GCP**
 
 ---
 
