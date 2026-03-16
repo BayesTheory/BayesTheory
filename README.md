@@ -1,5 +1,5 @@
 # Rian Ferreira 🧠📊
-**AI/ML Engineer** • **Statistician & MSc IA Student** 
+**AI/ML Engineer** • **Statistician & MSc IA Student** **bayes.ia.br** 
 
 🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | 🤖 Vision and Language
 
