@@ -3,7 +3,7 @@
 
 🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | 🤖 Vision and Language
 
-[Site](https://bayes.ia.br)
+[Contato](https://bayes.ia.br)
 ---
 
 ### 🔧 Developer Profile Snapshot
