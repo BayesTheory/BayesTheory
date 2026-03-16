@@ -1,8 +1,8 @@
 # Rian Ferreira 🧠📊
-**AI/ML Engineer** • **Statistician & MSc IA Student** **bayes.ia.br** 
+**AI/ML Engineer** • **Statistician & MSc IA Student** 
 
 🎯 Precision, performance, and a dash of aesthetic  | 🧪 Data & Automation enthusiast  | 🤖 Vision and Language
-
+[Site](https://bayes.ia.br)
 ---
 
 ### 🔧 Developer Profile Snapshot
