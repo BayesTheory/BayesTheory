@@ -51,18 +51,10 @@ Cloud Pipelines · Data Engineering · Probabilistic Programming
 
 ### Contribuições
 
-- **Vox Radar** — Engenheiro de ML em produção
-- **UFRJ** — Formação e projetos de pesquisa
+- **Vox Radar** — Engenheiro de ML em Visão
+- **LAMCE/UFRJ** — Formação e projetos de pesquisa
 
 ---
 
-<div align="center">
 
-<a href="https://github.com/BayesTheory">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BayesTheory&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/BayesTheory">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayesTheory&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
 
-</div>
