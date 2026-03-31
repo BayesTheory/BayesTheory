@@ -16,7 +16,7 @@
 
 ### Sobre
 
-Engenheiro de Machine Learning com foco em Visão Computacional e NLP, atuando em P&D e produção ponta a ponta. Experiência em pipelines reprodutíveis e robustos, deploy com AWS Lambda e CI/CD, e integração de soluções com OCR. Formado pela UFRJ, atualmente na **Vox Radar**.
+Engenheiro de Machine Learning com foco em Visão Computacional e NLP, atuando em P&D e produção ponta a ponta. Experiência em pipelines reprodutíveis e robustos, deploy com AWS Lambda e CI/CD, e integração de soluções com OCR. Pesquisador pela UFRJ, atualmente na **Vox Radar**.
 
 ### Stack
 
