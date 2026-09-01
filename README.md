@@ -211,27 +211,6 @@ Cloud Pipelines · Data Engineering · Programação Probabilística
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BayesTheory&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BayesTheory&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayesTheory&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<br><br>
-
-### Contribuições em 3D
-
-<img src="https://raw.githubusercontent.com/BayesTheory/BayesTheory/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
 ### Vamos conversar
 
 **Aberto a:** Computer Vision • MLOps & Cloud • NLP/OCR • Pesquisa Aplicada
@@ -244,7 +223,9 @@ Cloud Pipelines · Data Engineering · Programação Probabilística
 
 <br>
 
-*"Precisão, performance e uma pitada de estética"*
+**Status:** Bacharelado em Estatística ✅ · Mestrado em Engenharia 🔄 · Sanidade mental ❓
+
+*"Now it is our turn to study statistical mechanics"* 💀💀💀
 
 <br>
 
